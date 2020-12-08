@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuitemService", "MenuitemService.csproj", "{285B2B89-2D42-4720-8741-D9290DADA2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{285B2B89-2D42-4720-8741-D9290DADA2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285B2B89-2D42-4720-8741-D9290DADA2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285B2B89-2D42-4720-8741-D9290DADA2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285B2B89-2D42-4720-8741-D9290DADA2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AEFA7CF-6A5E-4FB9-83F8-B865D3E0BA55}
+	EndGlobalSection
+EndGlobal
